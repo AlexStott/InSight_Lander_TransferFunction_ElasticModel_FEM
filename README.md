@@ -1,6 +1,6 @@
 # Simple Elastic model for NASA InSight lander-regolith interactions
 
-FEM of the regolith-lander interaction for the NASA InSight lander in Stott et al. (2021) "The Site Tilt and Lander Transfer Function from the Short-Period Seismometer of InSight on Mars" in BSSA.
+FEM of the regolith-lander interaction for the NASA InSight lander. This code is used for the results in Stott et al. (2021) "The Site Tilt and Lander Transfer Function from the Short-Period Seismometer of InSight on Mars" in BSSA.
 
 The current model is used to approximate the displacement field of an elastic block when it is deformed by small surface loads imposed by circular feet.
 
