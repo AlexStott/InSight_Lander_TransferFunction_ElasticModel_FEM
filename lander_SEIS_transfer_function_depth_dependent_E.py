@@ -1,5 +1,5 @@
 """
-FEM simulation modelling the ground below the NASA InSight lander for Stott et al. (2021) "The Site Tilt and Lander Transfer Function from the Short-Period Seismometer of InSight on Mars" in BSSA.
+FEM of the regolith-lander interaction for the NASA InSight lander in Stott et al. (2021) "The Site Tilt and Lander Transfer Function from the Short-Period Seismometer of InSight on Mars" in BSSA.
 
 This code produces displacement ratio map for a perturbation from the lander feet, indicating the transfer to the seismometer's feet.
 
